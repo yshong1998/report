@@ -1,0 +1,25 @@
+spring:
+  application:
+    name: report
+  mvc:
+    hiddenmethod:
+      filter:
+        enable=true:
+
+  jpa:
+    show-sql: true
+    database: MYSQL
+    hibernate:
+      ddl-auto: update
+    properties:
+      hibernate:
+        format_sql: true
+
+  datasource:
+    url: jdbc:mysql://localhost:3306/example2
+    username: root
+    password: 1234
+    driver-class-name: com.mysql.cj.jdbc.Driver
+
+server:
+  port: 8080
