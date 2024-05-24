@@ -120,27 +120,27 @@ select id, name, title, password, content, created_at, updated_at from board ord
 
 ---
 
-![](images/2024-05-11-21-51-06.png)
+![](images/image1.png)
 
 ---
 
-![](images/2024-05-11-21-51-50.png)
+![](images/image2.png)
 
 ---
 
-![](images/2024-05-11-21-52-09.png)
+![](images/image3.png)
 
 ---
 
-![](images/2024-05-11-21-52-34.png)
+![](images/image4.png)
 
 ---
 
-![height:550](images/2024-05-11-21-52-56.png)
+![](images/image5.png)
 
 ---
 
-![height:550](images/2024-05-11-21-53-39.png)
+
 
 ---
 
@@ -160,13 +160,11 @@ select id, name, title, password, content, created_at, updated_at from board ord
 
 ---
 
-![](images/2024-05-11-12-34-42.png)
+![height:550](images/image6.png)
 
+![height:550](images/image7.png)
 ---
 
-![](images/2024-05-11-12-35-03.png)
-
----
 
 ### 2. 게시글 상세 조회 (`/view?id=아이디`)
 
@@ -179,7 +177,7 @@ select id, name, title, password, content, created_at, updated_at from board ord
 
 ---
 
-![](images/2024-05-11-12-35-24.png)
+![](images/image8.png)
 
 ---
 
@@ -193,7 +191,7 @@ select id, name, title, password, content, created_at, updated_at from board ord
 
 ---
 
-![](images/2024-05-11-12-35-51.png)
+![](images/image9.png)
 
 ---
 
@@ -207,7 +205,7 @@ select id, name, title, password, content, created_at, updated_at from board ord
 
 ---
 
-![](images/2024-05-11-12-36-14.png)
+![](images/image10.png)
 
 ---
 
@@ -221,7 +219,7 @@ select id, name, title, password, content, created_at, updated_at from board ord
 
 ---
 
-![](images/2024-05-11-12-36-38.png)
+![](images/image11.png)
 
 ---
 
